@@ -35,28 +35,13 @@
               "state": {
                 "file": "第四章 相似矩阵与二次型.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "第四章 相似矩阵与二次型"
             }
-          },
-          {
-            "id": "fa65b5b7ac15733d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/线性代数.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "线性代数"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "线性代数/线性代数.md",
+            "file": "第四章 相似矩阵与二次型.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "线性代数/线性代数.md",
+            "file": "第四章 相似矩阵与二次型.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -166,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "线性代数/线性代数.md",
+            "file": "第四章 相似矩阵与二次型.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -189,10 +174,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "fa65b5b7ac15733d",
+  "active": "57bd6c8bbfaf33e7",
   "lastOpenFiles": [
-    "第四章 相似矩阵与二次型.md",
     "线性代数/线性代数.md",
+    "第四章 相似矩阵与二次型.md",
     "大学物理",
     "线性代数"
   ]
