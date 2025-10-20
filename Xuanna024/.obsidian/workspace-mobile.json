@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "8e2bb6bf50cb872b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8fe614900604009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e09fc713e119801",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名 3.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1d1d6ea7b493c45",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e7970ddc0fc083c0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "4a11fa776edcbbef",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "57eb6bbefe102b79",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "756e4a171a99e44e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "390a6b31ddeba376",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e71848787971c663",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "未命名 3.base",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "4d0138cc97112993",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "5102c5599b83bf1b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "e7970ddc0fc083c0",
+  "lastOpenFiles": [
+    "未命名 3.base",
+    "未命名 2.base",
+    "未命名",
+    "未命名 1.base",
+    "未命名.base",
+    "未命名.canvas",
+    "2025-10-15.md",
+    "线性代数.md.md",
+    "稳恒电流的磁场.md.md",
+    "U.md",
+    "未命名.md.md",
+    "Untitled.base"
+  ]
+}
