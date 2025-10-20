@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数.md.md",
+                "file": "线性代数/线性代数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性代数.md"
+              "title": "线性代数"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "线性代数.md.md",
+            "file": "线性代数/线性代数.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "线性代数.md.md",
+            "file": "线性代数/线性代数.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "线性代数.md.md",
+            "file": "线性代数/线性代数.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,6 +154,9 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "71d6aaffc5022ebc",
-  "lastOpenFiles": []
+  "active": "cf09d52c0319024e",
+  "lastOpenFiles": [
+    "大学物理",
+    "线性代数"
+  ]
 }
