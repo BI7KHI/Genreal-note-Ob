@@ -1,23 +1,24 @@
 {
   "main": {
-    "id": "8e2bb6bf50cb872b",
+    "id": "52313da5534ff765",
     "type": "split",
     "children": [
       {
-        "id": "d8fe614900604009",
+        "id": "b79418624e49bb31",
         "type": "tabs",
         "children": [
           {
-            "id": "5e09fc713e119801",
+            "id": "71d6aaffc5022ebc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 3.base",
-                "viewName": "表格"
+                "file": "线性代数.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 3"
+              "icon": "lucide-file",
+              "title": "线性代数.md"
             }
           }
         ]
@@ -26,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e1d1d6ea7b493c45",
+    "id": "bf565b6ba7061036",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e7970ddc0fc083c0",
+        "id": "cf09d52c0319024e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -43,7 +44,7 @@
         }
       },
       {
-        "id": "4a11fa776edcbbef",
+        "id": "866510f1865ac09f",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -56,11 +57,11 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "Search"
+          "title": "搜索"
         }
       },
       {
-        "id": "57eb6bbefe102b79",
+        "id": "4a128e5820671aa2",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -71,34 +72,34 @@
             "searchQuery": ""
           },
           "icon": "lucide-tags",
-          "title": "Tags"
+          "title": "标签"
         }
       },
       {
-        "id": "756e4a171a99e44e",
+        "id": "fb3e5441ea05908b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
           "state": {},
           "icon": "lucide-bookmark",
-          "title": "Bookmarks"
+          "title": "书签"
         }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "390a6b31ddeba376",
+    "id": "d2cf24a473a94f5a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e71848787971c663",
+        "id": "5979397f6eee90c6",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "未命名 3.base",
-            "collapseAll": true,
+            "file": "线性代数.md.md",
+            "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -111,32 +112,32 @@
         }
       },
       {
-        "id": "4d0138cc97112993",
+        "id": "6cb7a40bae4e24b4",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "线性代数.md.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
           "icon": "links-going-out",
-          "title": "Outgoing links"
+          "title": "出链"
         }
       },
       {
-        "id": "5102c5599b83bf1b",
+        "id": "cc408b58d4f3b331",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md",
+            "file": "线性代数.md.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
-          "title": "Outline"
+          "title": "大纲"
         }
       }
     ],
@@ -144,7 +145,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -154,19 +154,6 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "e7970ddc0fc083c0",
-  "lastOpenFiles": [
-    "未命名 3.base",
-    "未命名 2.base",
-    "未命名",
-    "未命名 1.base",
-    "未命名.base",
-    "未命名.canvas",
-    "2025-10-15.md",
-    "线性代数.md.md",
-    "稳恒电流的磁场.md.md",
-    "U.md",
-    "未命名.md.md",
-    "Untitled.base"
-  ]
+  "active": "71d6aaffc5022ebc",
+  "lastOpenFiles": []
 }
