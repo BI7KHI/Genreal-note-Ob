@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/线性代数.md",
+                "file": "大学物理/稳恒电流的磁场.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性代数"
+              "title": "稳恒电流的磁场.md"
             }
           }
         ]
@@ -156,8 +156,8 @@
   },
   "active": "1e3d0d12c9ce4caa",
   "lastOpenFiles": [
-    "大学物理/稳恒电流的磁场.md.md",
     "线性代数/线性代数.md",
+    "大学物理/稳恒电流的磁场.md.md",
     "线性代数/行列式的概念.md",
     "第四章 相似矩阵与二次型.md",
     "大学物理",
