@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9cda917acc8b4fae",
+        "id": "6f75e0200a0beb1b",
         "type": "tabs",
         "children": [
           {
-            "id": "57bd6c8bbfaf33e7",
+            "id": "1e3d0d12c9ce4caa",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a3e85ea8010864a1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "25918137e2733628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第四章 相似矩阵与二次型.md",
-                "mode": "source",
-                "source": true
-              },
               "icon": "lucide-file",
-              "title": "第四章 相似矩阵与二次型"
+              "title": "新标签页"
             }
           }
         ]
@@ -170,10 +150,11 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "57bd6c8bbfaf33e7",
+  "active": "1e3d0d12c9ce4caa",
   "lastOpenFiles": [
-    "第四章 相似矩阵与二次型.md",
     "线性代数/线性代数.md",
+    "线性代数/行列式的概念.md",
+    "第四章 相似矩阵与二次型.md",
     "大学物理",
     "线性代数"
   ]
