@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d4ce5cd2f89d9cc",
+        "id": "651da9b2496bf6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "bd33e29851ed016b",
+            "id": "67109cf7ca4396c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,16 +165,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd33e29851ed016b",
+  "active": "67109cf7ca4396c8",
   "lastOpenFiles": [
-    "Pasted image 20251105161246.jpg",
+    "大学物理/稳恒电流的磁场i.md",
+    "大学物理/自感与互感.md",
+    "大学物理/assets/Pasted image 20251105161246.jpg",
+    "大学物理/assets/Pasted image 20251105152904.png",
     "大学物理/assets/Pasted image 20251105153052.jpg",
     "大学物理/assets",
-    "Pasted image 20251105153018.jpg",
-    "Pasted image 20251105152904.png",
+    "大学物理/assets/Pasted image 20251105153018.jpg",
     "电工学/正弦交流电路.md",
     "电工学/assets/Pasted image 20251031085410.jpg",
-    "大学物理/自感与互感.md",
     "大学物理/电磁感应 电磁场.md",
     "大学物理/感生电动势与动生电动势.md",
     "线性代数/线性代数.md",
@@ -185,7 +186,6 @@
     "线性代数/矩阵.md",
     "/线性代数/矩阵.md",
     "/线性代数/期末考纲.md",
-    "大学物理/稳恒电流的磁场i.md",
     "线性代数/行列式的概念.md",
     "大学物理",
     "线性代数"
