@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8d4ce5cd2f89d9cc",
+        "id": "463fbf02f9eb9b9b",
         "type": "tabs",
         "children": [
           {
-            "id": "bd33e29851ed016b",
+            "id": "0f6abb55040eb04b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大学物理/自感与互感.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "自感与互感"
+              "title": "新标签页"
             }
           }
         ]
@@ -165,27 +161,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd33e29851ed016b",
+  "active": "0f6abb55040eb04b",
   "lastOpenFiles": [
-    "Pasted image 20251105161246.jpg",
+    "大学物理/磁场的能量.md",
+    "大学物理/自感与互感.md",
+    "2025-11-07.md",
+    "Latex Suite Config.md",
+    "电工学/功率因数的提高.md",
+    "大学物理/稳恒电流的磁场i.md",
+    "未命名.canvas",
+    "电工学/assets/功率因数的提高.jpg",
+    "电工学/assets/Pasted image 20251107094137.jpg",
+    "电工学/谐振电路.md",
+    "电工学/assets/Pasted image 20251107090739.jpg",
+    "电工学/assets/Pasted image 20251031085410.jpg",
+    "电工学/正弦交流电路.md",
+    "大学物理/assets/Pasted image 20251105161246.jpg",
+    "大学物理/assets/Pasted image 20251105152904.png",
     "大学物理/assets/Pasted image 20251105153052.jpg",
     "大学物理/assets",
-    "Pasted image 20251105153018.jpg",
-    "Pasted image 20251105152904.png",
-    "电工学/正弦交流电路.md",
-    "电工学/assets/Pasted image 20251031085410.jpg",
-    "大学物理/自感与互感.md",
+    "大学物理/assets/Pasted image 20251105153018.jpg",
     "大学物理/电磁感应 电磁场.md",
     "大学物理/感生电动势与动生电动势.md",
     "线性代数/线性代数.md",
     "线性代数/期末考纲.md",
     "/线性代数/线性代数.md",
     "/线性代数",
-    "第四章 相似矩阵与二次型.md",
+    "电工学/第四章 相似矩阵与二次型.md",
     "线性代数/矩阵.md",
     "/线性代数/矩阵.md",
     "/线性代数/期末考纲.md",
-    "大学物理/稳恒电流的磁场i.md",
     "线性代数/行列式的概念.md",
     "大学物理",
     "线性代数"
