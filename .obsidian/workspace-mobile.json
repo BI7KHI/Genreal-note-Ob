@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9184bda37b1d8f26",
+        "id": "463fbf02f9eb9b9b",
         "type": "tabs",
         "children": [
           {
-            "id": "78d7c217734102c4",
+            "id": "0f6abb55040eb04b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电工学/功率因数的提高.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "功率因数的提高"
+              "title": "新标签页"
             }
           }
         ]
@@ -165,10 +161,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78d7c217734102c4",
+  "active": "0f6abb55040eb04b",
   "lastOpenFiles": [
-    "大学物理/稳恒电流的磁场i.md",
+    "大学物理/磁场的能量.md",
+    "大学物理/自感与互感.md",
+    "2025-11-07.md",
+    "Latex Suite Config.md",
     "电工学/功率因数的提高.md",
+    "大学物理/稳恒电流的磁场i.md",
     "未命名.canvas",
     "电工学/assets/功率因数的提高.jpg",
     "电工学/assets/Pasted image 20251107094137.jpg",
@@ -176,7 +176,6 @@
     "电工学/assets/Pasted image 20251107090739.jpg",
     "电工学/assets/Pasted image 20251031085410.jpg",
     "电工学/正弦交流电路.md",
-    "大学物理/自感与互感.md",
     "大学物理/assets/Pasted image 20251105161246.jpg",
     "大学物理/assets/Pasted image 20251105152904.png",
     "大学物理/assets/Pasted image 20251105153052.jpg",
