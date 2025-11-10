@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "463fbf02f9eb9b9b",
+        "id": "3f2f4a41f916b971",
         "type": "tabs",
         "children": [
           {
-            "id": "0f6abb55040eb04b",
+            "id": "6cc3467782a229ca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f6abb55040eb04b",
+  "active": "6cc3467782a229ca",
   "lastOpenFiles": [
+    "机械原理/轮系.md",
+    "Pasted image 20251110154614.jpg",
+    "机械原理/平面机构的运动分析.md",
+    "机械原理/assets/Pasted image 20251110154536.jpg",
+    "机械原理/assets/Pasted image 20251110154536.png",
     "大学物理/磁场的能量.md",
     "大学物理/自感与互感.md",
     "2025-11-07.md",
@@ -180,7 +185,6 @@
     "大学物理/assets/Pasted image 20251105152904.png",
     "大学物理/assets/Pasted image 20251105153052.jpg",
     "大学物理/assets",
-    "大学物理/assets/Pasted image 20251105153018.jpg",
     "大学物理/电磁感应 电磁场.md",
     "大学物理/感生电动势与动生电动势.md",
     "线性代数/线性代数.md",
