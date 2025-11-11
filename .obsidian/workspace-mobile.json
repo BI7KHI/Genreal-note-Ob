@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f2f4a41f916b971",
+        "id": "7916c555bb3be5ba",
         "type": "tabs",
         "children": [
           {
-            "id": "6cc3467782a229ca",
+            "id": "12c505c7d7fb17e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "机械原理/齿轮机构 及其设计.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "齿轮机构 及其设计"
             }
           }
         ]
@@ -161,8 +165,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cc3467782a229ca",
+  "active": "12c505c7d7fb17e6",
   "lastOpenFiles": [
+    "机械原理/齿轮机构 及其设计.md",
+    "未命名.canvas",
+    "未命名.base",
     "机械原理/轮系.md",
     "Pasted image 20251110154614.jpg",
     "机械原理/平面机构的运动分析.md",
@@ -174,7 +181,6 @@
     "Latex Suite Config.md",
     "电工学/功率因数的提高.md",
     "大学物理/稳恒电流的磁场i.md",
-    "未命名.canvas",
     "电工学/assets/功率因数的提高.jpg",
     "电工学/assets/Pasted image 20251107094137.jpg",
     "电工学/谐振电路.md",
