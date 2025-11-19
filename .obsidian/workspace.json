@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料力学/第一章 绪论.md",
+                "file": "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一章 绪论"
+              "title": "第二章 轴向拉伸与压缩 剪切和挤压"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b63636f64d9d878c",
@@ -180,8 +179,10 @@
   },
   "active": "691b05be7bbc2daa",
   "lastOpenFiles": [
-    "材料力学/assets/images/例1.1.jpg",
     "材料力学/第一章 绪论.md",
+    "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
+    "材料力学/assets/images/ac0de0697bc7c26988a7d0dc97f53179.jpg",
+    "材料力学/assets/images/例1.1.jpg",
     "材料力学/assets/images",
     "材料力学/assets",
     "DATA BASE数据库.base",
@@ -199,7 +200,6 @@
     "Pasted image 20251108004037.png",
     "Latex Suite Config.md",
     "机械原理/assets/images/DOF计算.png",
-    "机械原理/assets/images/运动副符号3.png",
     "机械原理/assets/images",
     "机械原理/assets",
     "大学物理/磁场的能量.md",
