@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
+                "file": "电工学/第五章 三相电路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二章 轴向拉伸与压缩 剪切和挤压"
+              "title": "第五章 三相电路"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.5
   },
   "right": {
     "id": "b63636f64d9d878c",
@@ -178,8 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b176ebbf971db2a",
+  "active": "b3f16b070187eeb5",
   "lastOpenFiles": [
+    "Ubuntu/ROS2.md",
+    "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
+    "Background/图片URL.md",
     "大学物理/量子物理基础.md",
     "大学物理/稳恒电流的磁场.md",
     "大学物理/感生电动势与动生电动势.md",
@@ -192,7 +195,6 @@
     "线性代数/矩阵.md",
     "线性代数/第四章 相似矩阵与二次型 1.md",
     "线性代数/第四章 相似矩阵与二次型.md",
-    "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
     "材料力学/第一章 绪论.md",
     "大学物理/自感与互感.md",
     "大学物理/磁场的能量.md",
@@ -204,9 +206,7 @@
     "DATA BASE.base",
     "大学物理/15 狭义相对论基础.md",
     "电工学/功率因数的提高.md",
-    "Background/图片URL.md",
     "Pasted image 20251120214512.png",
-    "Ubuntu/ROS2.md",
     "Ubuntu/assets/images",
     "Ubuntu/assets",
     "Ubuntu",
