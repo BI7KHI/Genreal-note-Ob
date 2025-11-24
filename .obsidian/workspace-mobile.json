@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7916c555bb3be5ba",
+        "id": "178bbb833581e857",
         "type": "tabs",
         "children": [
           {
-            "id": "12c505c7d7fb17e6",
+            "id": "7742b224ce3c4a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学物理/狭义相对论基础.md",
+                "file": "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "狭义相对论基础"
+              "title": "第二章 轴向拉伸与压缩 剪切和挤压"
             }
           }
         ]
@@ -166,10 +166,29 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "74b4c90f15b0f6a9",
+  "active": "cf09d52c0319024e",
   "lastOpenFiles": [
-    "/Background/20250603072914174890695466073.png",
+    "材料力学/assets/images/Pasted image 20251124155156.jpg",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "未命名.canvas",
+    "Pasted image 20251124154115.jpg",
+    "材料力学/assets/images/Pasted image 20251124154115 1.jpg",
+    "未命名.base",
+    "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
+    "材料力学/assets/images/Pasted image 20251124145312.jpg",
+    "材料力学/assets/images/Pasted image 20251124145056.jpg",
+    "Background/图片URL.md",
+    "/Background/图片URL.md",
     "/Background",
+    "Background/bizhihui_com_20231110234025169963082525158.jpg",
+    "Background/20250610121932174952917263720.jpg",
+    "大学物理/狭义相对论基础.md",
+    "/材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
+    "/材料力学",
+    "大学物理/第15章 狭义相对论基础.md",
+    "/大学物理/第15章 狭义相对论基础.md",
+    "/大学物理",
+    "/Background/20250603072914174890695466073.png",
     "电工学/assets/Pasted image 20251121090035.jpg",
     "电工学/第五章 三相电路.md",
     "大学物理/assets/Pasted image 20251121110151.jpg",
@@ -182,7 +201,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
@@ -192,28 +210,10 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
     "材料力学/第一章 绪论.md",
     "网络/如何将网站、域名添加到搜索引擎.md",
     "网络/assets/images/Pasted image 20251119101456.png",
     "/网络/如何将网站、域名添加到搜索引擎.md",
-    "/网络/assets/images/Pasted image 20251119101456.png",
-    "/材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
-    "/材料力学/第一章 绪论.md",
-    "/材料力学/assets/images/ac0de0697bc7c26988a7d0dc97f53179.jpg",
-    "材料力学/assets/images/ac0de0697bc7c26988a7d0dc97f53179.jpg",
-    "/材料力学/assets/images",
-    "/材料力学/assets",
-    "/材料力学",
-    "/网络/assets/images",
-    "大学物理/狭义相对论基础.md",
-    "材料力学/assets/images/例1.1.jpg",
-    "/材料力学/assets/images/例1.1.jpg",
-    "机械原理/assets/images/Pasted image 20251110154614.jpg",
-    "大学物理/磁场的能量.md",
-    "大学物理/自感与互感.md",
-    "机械原理/齿轮机构 及其设计.md",
-    "未命名.canvas",
-    "机械原理/assets/Pasted image 20251110154536.jpg"
+    "/材料力学/assets/images"
   ]
 }
