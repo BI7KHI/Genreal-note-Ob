@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,17 +177,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf49994e59d377b6",
+  "active": "12024ea4a64f20f7",
   "lastOpenFiles": [
+    "Pasted image 20251219001054.png",
+    "电工学/assets/Pasted image 20251219000808.png",
+    "电工学/assets/Pasted image 20251219000527.png",
+    "线性代数/第四章 相似矩阵与二次型.md",
+    "线性代数/第四章 相似矩阵与二次型 1.md",
+    "电工学/第二章 电路的基本分析方法与基本定理.md",
     "电工学/第一章 电路基础概念及其定律.md",
+    "电工学/第五章 三相电路.md",
+    "电工学/第四章 正弦交流电路.md",
+    "电工学/assets/Pasted image 20251218234328.png",
     "电工学/第三章 电路的暂态过程分析.md",
     "电工学/assets/Pasted image 20251218214924.png",
-    "电工学/第二章 电路的基本分析方法与基本定理.md",
-    "电工学/第四章 正弦交流电路.md",
     "电工学/正弦交流电路.md",
     "电工学/功率因数的提高.md",
     "电工学/谐振电路.md",
-    "电工学/第五章 三相电路.md",
     "电工学/第六章  磁路与铁心线圈电路.md",
     "电工学/assets/2b001c6a739f96680c1ef22f2d518ec2.jpg",
     "电工学/assets/daca56269683b904d0417cd17aaea391.jpg",
@@ -202,9 +208,6 @@
     "ANSYS仿真笔记/ANSYS 2025 R2 仿真实践.md",
     "大学物理/16 量子力学.md",
     "大学物理/15 狭义相对论基础.md",
-    "ANSYS仿真笔记/assets/Pasted image 20251126004950.png",
-    "ANSYS仿真笔记/assets/Pasted image 20251126004703.png",
-    "ANSYS仿真笔记/assets/Pasted image 20251126003624.png",
     "README.md",
     "ANSYS仿真笔记/assets",
     "ANSYS仿真笔记",
@@ -214,9 +217,6 @@
     "大学物理/电磁感应 电磁场.md",
     "机械原理/平面机构的结构分析.md",
     "机械原理/轮系.md",
-    "机械原理/齿轮机构 及其设计.md",
-    "线性代数/线性代数.md",
-    "线性代数/矩阵.md",
     "DATA BASE.base",
     "Ubuntu/assets/images",
     "Ubuntu/assets",
