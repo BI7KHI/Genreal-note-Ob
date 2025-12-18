@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电工学/第三章 电路的暂态过程分析.md",
+                "file": "电工学/第二章 电路的基本分析方法与基本定理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第三章 电路的暂态过程分析"
+              "title": "第二章 电路的基本分析方法与基本定理"
             }
           }
         ]
@@ -177,12 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3f16b070187eeb5",
+  "active": "cf49994e59d377b6",
   "lastOpenFiles": [
+    "电工学/第一章 电路基础概念及其定律.md",
     "电工学/第三章 电路的暂态过程分析.md",
     "电工学/assets/Pasted image 20251218214924.png",
     "电工学/第二章 电路的基本分析方法与基本定理.md",
-    "电工学/第一章 电路基础概念及其定律.md",
     "电工学/第四章 正弦交流电路.md",
     "电工学/正弦交流电路.md",
     "电工学/功率因数的提高.md",
