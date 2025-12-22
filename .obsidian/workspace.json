@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电工学/第二章 电路的基本分析方法与基本定理.md",
+                "file": "电工学/第三章 电路的暂态过程分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二章 电路的基本分析方法与基本定理"
+              "title": "第三章 电路的暂态过程分析"
             }
           }
         ]
@@ -177,9 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf49994e59d377b6",
+  "active": "b3f16b070187eeb5",
   "lastOpenFiles": [
-    "Pasted image 20251222222242.png",
+    "电工学/第二章 电路的基本分析方法与基本定理.md",
+    "电工学/assets/Pasted image 20251222235647.png",
+    "电工学/assets/Pasted image 20251222222242.png",
     "电工学/assets/Pasted image 20251222220639.png",
     "电工学/assets/Pasted image 20251221012201.png",
     "电工学/Pasted image 20251221011134.png",
@@ -193,10 +195,7 @@
     "网络运维/如何将网站、域名添加到搜索引擎.md",
     "机械原理/平面机构的结构分析.md",
     "机械原理/齿轮机构 及其设计.md",
-    "电工学/第二章 电路的基本分析方法与基本定理.md",
     "电工学/assets/Pasted image 20251219001054.png",
-    "电工学/assets/Pasted image 20251219000808.png",
-    "电工学/assets/Pasted image 20251219000527.png",
     "线性代数/第四章 相似矩阵与二次型.md",
     "线性代数/第四章 相似矩阵与二次型 1.md",
     "电工学/第五章 三相电路.md",
