@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,20 +177,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf49994e59d377b6",
+  "active": "12024ea4a64f20f7",
   "lastOpenFiles": [
-    "Pasted image 20260106010156.png",
-    "Pasted image 20260105151631.png",
-    "Pasted image 20260105151421.png",
-    "Pasted image 20260105150008.png",
     "材料力学/第一章 绪论.md",
+    "材料力学/第三章 扭转.md",
     "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
+    "材料力学/assets/Pasted image 20260105150008.png",
+    "材料力学/assets/Pasted image 20260105151421.png",
+    "材料力学/assets/Pasted image 20260105151631.png",
+    "材料力学/assets/Pasted image 20260106010156.png",
+    "电工学/assets/Pasted image 20251221011117.png",
+    "电工学/第一章 电路基础概念及其定律.md",
     "电工学/第四章 正弦交流电路.md",
     "电工学/第二章 电路的基本分析方法与基本定理.md",
     "电工学/第六章  磁路与铁心线圈电路.md",
     "电工学/第三章 电路的暂态过程分析.md",
     "电工学/第五章 三相电路.md",
-    "材料力学/第三章 扭转.md",
     "大学物理/稳恒电流的磁场.md",
     "大学物理/15 狭义相对论基础.md",
     "大学物理/第15章 狭义相对论基础.md",
@@ -201,10 +203,7 @@
     "电工学/assets/Pasted image 20251222222242.png",
     "电工学/assets/Pasted image 20251222220639.png",
     "电工学/assets/Pasted image 20251221012201.png",
-    "电工学/Pasted image 20251221011134.png",
-    "电工学/Pasted image 20251221011117.png",
-    "电工学/assets/Pasted image 20251221011105.png",
-    "电工学/第一章 电路基础概念及其定律.md",
+    "电工学/assets/Pasted image 20251221011134.png",
     "网络运维/如何将网站、域名添加到搜索引擎.md",
     "机械原理/平面机构的结构分析.md",
     "机械原理/齿轮机构 及其设计.md",
