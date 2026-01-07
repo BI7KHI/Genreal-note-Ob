@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
+                "file": "材料力学/附录 截面的几何性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二章 轴向拉伸与压缩 剪切和挤压"
+              "title": "附录 截面的几何性质"
             }
           }
         ]
@@ -179,12 +179,16 @@
   },
   "active": "cf49994e59d377b6",
   "lastOpenFiles": [
+    "Pasted image 20260107110757.png",
+    "Pasted image 20260107110604.png",
+    "材料力学/第四章 弯曲内力.md",
+    "材料力学/附录 截面的几何性质.md",
+    "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
     "材料力学/第三章 扭转.md",
     "材料力学/第一章 绪论.md",
     "材料力学/assets/Pasted image 20260107104246.png",
     "材料力学/assets/Pasted image 20260107100314.png",
     "材料力学/assets/Pasted image 20260107100300.png",
-    "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
     "材料力学/assets/Pasted image 20260105150008.png",
     "材料力学/assets/Pasted image 20260105151421.png",
     "材料力学/assets/Pasted image 20260105151631.png",
@@ -203,7 +207,6 @@
     "大学物理/量子物理基础.md",
     "大学物理/感生电动势与动生电动势.md",
     "电工学/assets/Pasted image 20251222235647.png",
-    "电工学/assets/Pasted image 20251222222242.png",
     "网络运维/如何将网站、域名添加到搜索引擎.md",
     "机械原理/平面机构的结构分析.md",
     "机械原理/齿轮机构 及其设计.md",
@@ -212,8 +215,6 @@
     "电工学/正弦交流电路.md",
     "电工学/功率因数的提高.md",
     "电工学/谐振电路.md",
-    "ANSYS仿真笔记/ANSYS 2025 R2 仿真实践.md",
-    "大学物理/16 量子力学.md",
     "ANSYS仿真笔记/assets",
     "ANSYS仿真笔记",
     "DATA BASE.base",
