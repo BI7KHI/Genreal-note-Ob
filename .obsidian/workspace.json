@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料力学/第三章 扭转.md",
+                "file": "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第三章 扭转"
+              "title": "第二章 轴向拉伸与压缩 剪切和挤压"
             }
           }
         ]
@@ -177,10 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12024ea4a64f20f7",
+  "active": "cf49994e59d377b6",
   "lastOpenFiles": [
-    "材料力学/第一章 绪论.md",
     "材料力学/第三章 扭转.md",
+    "材料力学/第一章 绪论.md",
+    "材料力学/assets/Pasted image 20260107104246.png",
+    "材料力学/assets/Pasted image 20260107100314.png",
+    "材料力学/assets/Pasted image 20260107100300.png",
     "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
     "材料力学/assets/Pasted image 20260105150008.png",
     "材料力学/assets/Pasted image 20260105151421.png",
@@ -201,9 +204,6 @@
     "大学物理/感生电动势与动生电动势.md",
     "电工学/assets/Pasted image 20251222235647.png",
     "电工学/assets/Pasted image 20251222222242.png",
-    "电工学/assets/Pasted image 20251222220639.png",
-    "电工学/assets/Pasted image 20251221012201.png",
-    "电工学/assets/Pasted image 20251221011134.png",
     "网络运维/如何将网站、域名添加到搜索引擎.md",
     "机械原理/平面机构的结构分析.md",
     "机械原理/齿轮机构 及其设计.md",
