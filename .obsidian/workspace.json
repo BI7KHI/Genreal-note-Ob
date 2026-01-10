@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料力学/第七章 应力和应变分析 强度理论.md",
+                "file": "材料力学/7.第七章 应力和应变分析 强度理论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第七章 应力和应变分析 强度理论"
+              "title": "7.第七章 应力和应变分析 强度理论"
             }
           }
         ]
@@ -179,25 +179,24 @@
   },
   "active": "b3f16b070187eeb5",
   "lastOpenFiles": [
-    "材料力学/assets/Pasted image 20260110020523.png",
-    "材料力学/assets/Pasted image 20260110020455.png",
-    "材料力学/assets/Pasted image 20260110020446.png",
-    "材料力学/assets/Pasted image 20260110020423.png",
-    "材料力学/assets/Pasted image 20260110020358.png",
-    "材料力学/assets/Pasted image 20260110020347.png",
-    "材料力学/assets/Pasted image 20260110014916.png",
-    "材料力学/第七章 应力和应变分析 强度理论.md",
-    "材料力学/assets/Pasted image 20260110014637.png",
-    "材料力学/assets/Pasted image 20260110014623.png",
-    "材料力学/assets/Pasted image 20260110014601.png",
-    "材料力学/assets/Pasted image 20260110014545.png",
-    "材料力学/第六章 弯曲变形.md",
-    "材料力学/第二章 轴向拉伸与压缩 剪切和挤压.md",
-    "材料力学/第五章 弯曲应力.md",
+    "材料力学/5.第五章 弯曲应力.md",
+    "材料力学/4.第四章 弯曲内力.md",
+    "材料力学/3.第三章 扭转.md",
+    "材料力学/7.第七章 应力和应变分析 强度理论.md",
+    "材料力学/6.第六章 弯曲变形.md",
+    "材料力学/2.第二章 轴向拉伸与压缩 剪切和挤压.md",
+    "材料力学/assets/images/Pasted image 20260110022555.png",
+    "材料力学/assets/images/Pasted image 20260110022230.png",
+    "材料力学/assets/images/Pasted image 20260110021507.png",
+    "材料力学/assets/images/Pasted image 20260110021450.png",
+    "材料力学/assets/images/Pasted image 20260110021441.png",
+    "材料力学/assets/images/Pasted image 20260110020523.png",
+    "材料力学/assets/images/Pasted image 20260110020455.png",
+    "材料力学/assets/images/Pasted image 20260110020446.png",
+    "材料力学/assets/images/Pasted image 20260110020423.png",
+    "材料力学/assets/images/Pasted image 20260110020358.png",
     "材料力学/附录 截面的几何性质.md",
-    "材料力学/第四章 弯曲内力.md",
-    "材料力学/第三章 扭转.md",
-    "材料力学/第一章 绪论.md",
+    "材料力学/1.第一章 绪论.md",
     "电工学/第一章 电路基础概念及其定律.md",
     "电工学/第四章 正弦交流电路.md",
     "电工学/第二章 电路的基本分析方法与基本定理.md",
